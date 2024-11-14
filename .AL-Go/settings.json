@@ -2,10 +2,5 @@
   "country": "us",
   "appFolders": [],
   "testFolders": [],
-  "bcptTestFolders": [],
-  "environment": "LocalizationSandbox",
-  "customApiBaseUrl": "https://api.businesscentral.dynamics.com/v2.0/LocalizationSandbox/dev/apps",
-  "customApiQueryParameters": "?tenant=efc338e1-fedb-4ef5-abc9-455ce95bf2b9&SchemaUpdateMode=forcesync&DependencyPublishingOption=default",
-  "generateDocumentation": true,
-  "targetRuntime": "12.0"
+  "bcptTestFolders": []
 }
