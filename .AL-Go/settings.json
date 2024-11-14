@@ -1,11 +1,11 @@
 {
   "country": "us",
-  "appFolders": [],  // Uygulama kodlarının bulunduğu klasör
-  "testFolders": [],  // Test kodlarının bulunduğu klasör
-  "bcptTestFolders": [],  // Business Central Performance Test klasörleri
-  "environment": "LocalizationSandbox",  // Kullanılacak environment adı
-  "customApiBaseUrl": "https://api.businesscentral.dynamics.com/v2.0/LocalizationSandbox/dev/apps",  // Development API için temel URL
-  "customApiQueryParameters": "?tenant=efc338e1-fedb-4ef5-abc9-455ce95bf2b9&SchemaUpdateMode=forcesync&DependencyPublishingOption=default",  // Development API için parametreler
-  "generateDocumentation": true,  // Kod belgelendirme gereksinimi
-  "targetRuntime": "12.0"  // AL uygulaması için hedef çalışma zamanı (runtime)f
+  "appFolders": [],
+  "testFolders": [],
+  "bcptTestFolders": [],
+  "environment": "LocalizationSandbox",
+  "customApiBaseUrl": "https://api.businesscentral.dynamics.com/v2.0/LocalizationSandbox/dev/apps",
+  "customApiQueryParameters": "?tenant=efc338e1-fedb-4ef5-abc9-455ce95bf2b9&SchemaUpdateMode=forcesync&DependencyPublishingOption=default",
+  "generateDocumentation": true,
+  "targetRuntime": "12.0"
 }
